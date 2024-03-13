@@ -1,6 +1,6 @@
 # 🎵 SwiftUI SoundCloud Player App Clone 📱
 
-![RPReplay_Final17103270942-ezgif com-optimize](https://github.com/azeribatman/SoundCloud-Mobile-Player-SwiftUI/assets/96260055/954c3970-5c78-42c5-bea2-76ce6f4acab2)
+![RPReplay_Final17103270942-ezgif com-resize](https://github.com/azeribatman/SoundCloud-Mobile-Player-SwiftUI/assets/96260055/d96e95bd-b78d-4c0a-bdd2-464e683c3fe4)
 
 Welcome to the SwiftUI SoundCloud Player App Clone, your pocket-sized stage for enjoying the tunes you love! 🎶 This project brings the essence of SoundCloud's player to your iOS device with SwiftUI, offering a sleek and immersive music playback experience. Get ready to groove to your favorite tracks anytime, anywhere! 🕺💃
 
